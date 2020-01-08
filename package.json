@@ -1,0 +1,27 @@
+{
+  "name": "ImageGeneration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedailyio/ImageGeneration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codedailyio/ImageGeneration/issues"
+  },
+  "homepage": "https://github.com/codedailyio/ImageGeneration#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.0.2",
+    "emotion": "^10.0.27",
+    "puppeteer-core": "^2.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
